@@ -1,1 +1,1 @@
-
+I have attached my resume, can you to convert its content into JSON format. Make sure to capture each section accurately and structure it with proper headings. Ensure clear definition and labeling.
